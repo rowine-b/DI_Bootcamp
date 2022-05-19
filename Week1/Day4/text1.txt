@@ -1,0 +1,7 @@
+Use the git commands to connect your local folder to your github repository.
+git init (to initialize the folder as a git repository)
+git branch -M main
+git remote add origin <remote repository URL> (to set the new remote)
+git remote -v(to verify the new remote URL)
+git add .
+git commit -m "first commit"
